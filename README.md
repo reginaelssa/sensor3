@@ -1,4 +1,3 @@
-#SC
 ![Screenshot (73)](https://user-images.githubusercontent.com/107203004/172980225-ace87683-0715-4b89-b83c-edc8c0dca269.png)
 
 ![Screenshot (74)](https://user-images.githubusercontent.com/107203004/172980231-541b0639-bb18-4081-ac6c-c3443be1b3cc.png)
